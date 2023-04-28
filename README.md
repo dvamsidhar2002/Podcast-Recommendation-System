@@ -1,4 +1,4 @@
-# Podcast_Recommendation_System.ipynb
+# Podcast Recommendation System using <strong>Content Based Filtering</strong>
 
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
